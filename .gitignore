@@ -1,0 +1,8 @@
+# Evita subir entornos y configuraciones locales
+.env
+__pycache__/
+*.pyc
+node_modules/
+dist/
+.vscode/
+*.log
