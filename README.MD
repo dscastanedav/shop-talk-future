@@ -1,4 +1,4 @@
-#Shop Talk Future - Voice-Assisted Marketplace
+# Shop Talk Future - Voice-Assisted Marketplace
 
 Un marketplace experimental que combina **Supabase**, **Lovable**, **Gemini** y (opcionalmente) **LangChain** para crear una experiencia de compra futurista con asistencia por voz e inteligencia artificial.
 
