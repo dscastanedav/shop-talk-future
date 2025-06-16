@@ -11,7 +11,7 @@ shop-talk-future/\
 ├── backend-supabase-rag/      # Scripts Python para embeddings, RAG, Gemini\
 ├── diagrams/                  # Diagramas de arquitectura (actual y futura)\
 ├── README.md                  # Este archivo\
-└── .gitignore\
+└── .gitignore
 
 
 ---
