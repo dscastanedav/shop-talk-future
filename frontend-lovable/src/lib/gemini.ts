@@ -14,7 +14,7 @@ export async function handleGeminiQuery(userQuestion: string): Promise<string> {
         method: "POST",
         headers: { 
           "Content-Type": "application/json",
-          "Authorization": `Bearer ${import.meta.env.VITE_SUPABASE_ANON_KEY || "REMOVED"}`
+          "Authorization": `Bearer ${import.meta.env.VITE_SUPABASE_ANON_KEY}`
         },
         body: JSON.stringify({ userQuestion })
       }
