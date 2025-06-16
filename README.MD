@@ -6,12 +6,12 @@ Un marketplace experimental que combina **Supabase**, **Lovable**, **Gemini** y 
 
 ## Estructura del repositorio
 
-shop-talk-future/
-├── frontend-lovable/          # Código clonado y personalizado desde Lovable
-├── backend-supabase-rag/      # Scripts Python para embeddings, RAG, Gemini
-├── diagrams/                  # Diagramas de arquitectura (actual y futura)
-├── README.md                  # Este archivo
-└── .gitignore
+shop-talk-future/\
+├── frontend-lovable/          # Código clonado y personalizado desde Lovable\
+├── backend-supabase-rag/      # Scripts Python para embeddings, RAG, Gemini\
+├── diagrams/                  # Diagramas de arquitectura (actual y futura)\
+├── README.md                  # Este archivo\
+└── .gitignore\
 
 
 ---
