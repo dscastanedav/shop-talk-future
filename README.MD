@@ -1,4 +1,4 @@
-#Shop Talk Future - Voice-Assisted Marketplace
+# Shop Talk Future - Voice-Assisted Marketplace
 
 Un marketplace experimental que combina **Supabase**, **Lovable**, **Gemini** y (opcionalmente) **LangChain** para crear una experiencia de compra futurista con asistencia por voz e inteligencia artificial.
 
@@ -6,11 +6,11 @@ Un marketplace experimental que combina **Supabase**, **Lovable**, **Gemini** y 
 
 ## Estructura del repositorio
 
-shop-talk-future/
-├── frontend-lovable/ # Código clonado y personalizado desde Lovable
-├── backend-supabase-rag/ # Scripts Python para embeddings, RAG, Gemini
-├── diagrams/ # Diagramas de arquitectura (actual y futura)
-├── README.md # Este archivo
+shop-talk-future/\
+├── frontend-lovable/          # Código clonado y personalizado desde Lovable\
+├── backend-supabase-rag/      # Scripts Python para embeddings, RAG, Gemini\
+├── diagrams/                  # Diagramas de arquitectura (actual y futura)\
+├── README.md                  # Este archivo\
 └── .gitignore
 
 
@@ -102,7 +102,17 @@ python rag_retriever.py  # o langchain_recommender.py
 
 
 ## Demo en video 
-Enlace a la demo en YouTube
+Enlaces a la demo en Loom.\
+Enlace 1:
+
+https://www.loom.com/share/8132033033634683a66e9e9d025edb20?sid=b57f240a-96da-420f-bc60-4cdbfe3162d7 
+
+\
+Enlace 2:
+
+https://www.loom.com/share/e64fe957a89044bb99a9b0da19b1c5d4?sid=f293d646-94ff-4e15-bada-8b1d5f171cf6 
+
+
 
 ## Créditos y mejoras propuestas
 Este MVP demuestra la viabilidad de integrar tecnologías modernas en un marketplace inteligente.
